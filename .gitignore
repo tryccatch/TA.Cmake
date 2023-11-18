@@ -11,3 +11,6 @@ CTestTestfile.cmake
 _deps
 
 [Bb]uild64/
+[Bb]uild_v7a
+[Bb]uild_android_x86
+[Bb]uild_v8a
